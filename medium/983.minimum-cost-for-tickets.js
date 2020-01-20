@@ -86,21 +86,19 @@
  * @return {number}
  */
 var mincostTickets = function(days, costs) {
-  const dp = {};
-  dp[0] = 0;
-  for (let i = 1; i < 366; i++) {
+  const dp = new Array(30).fill(0);
+  for (let i = days[0]; i <= days[days.length - 1]; i++) {
     if (isTravelDay(i)) {
-      dp[i] = Math.min(
-        dp[i - 1] + costs[0],
-        dp[Math.max(0, i - 7)] + costs[1],
-        dp[Math.max(0, i - 30)] + costs[2]
+      dp[i % 30] = Math.min(
+        dp[(i - 1) % 30] + costs[0],
+        dp[Math.max(0, i - 7) % 30] + costs[1],
+        dp[Math.max(0, i - 30) % 30] + costs[2]
       );
     } else {
-      dp[i] = dp[i - 1];
+      dp[i % 30] = dp[(i - 1) % 30];
     }
   }
-
-  return dp[365];
+  return dp[days[days.length - 1] % 30];
 
   function isTravelDay(i) {
     return days.indexOf(i) > -1;
