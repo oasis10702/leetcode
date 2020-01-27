@@ -62,6 +62,7 @@
  * @param {number[]} arr
  * @return {number}
  */
+/* dp solution
 var mctFromLeafValues = function(arr) {
   const len = arr.length;
   const dp = new Array(len)
@@ -75,7 +76,7 @@ var mctFromLeafValues = function(arr) {
     }
   }
 
-  /* initial */
+  // init
   for (let i = 0; i < len; i++) {
     dp[i][i] = 0;
   }
@@ -96,5 +97,23 @@ var mctFromLeafValues = function(arr) {
   }
 
   return dp[0][len - 1];
+};
+*/
+var mctFromLeafValues = function(arr) {
+  const stack = [Number.MAX_VALUE];
+  let ans = 0;
+
+  for (let a of arr) {
+    while (stack[stack.length - 1] < a) {
+      ans += stack.pop() * Math.min(stack[stack.length - 1], a);
+    }
+    stack.push(a);
+  }
+
+  while (stack.length > 2) {
+    ans += stack.pop() * stack[stack.length - 1];
+  }
+
+  return ans;
 };
 // @lc code=end
