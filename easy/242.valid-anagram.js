@@ -14,18 +14,20 @@ var isAnagram = function(s, t) {
   if (s.length !== t.length) return false;
   let tb = {};
   let count = s.length;
-  for (let i = 0; i < s.length; i++) {
-    if (tb[s[i]]) {
-      tb[s[i]]++;
+  for (let c of s) {
+    if (tb[c]) {
+      tb[c]++;
     } else {
-      tb[s[i]] = 1;
+      tb[c] = 1;
     }
   }
 
-  for (let i = 0; i < t.length; i++) {
-    if (tb[t[i]]) {
+  for (let c of t) {
+    if (tb[c] === undefined) {
+      return false;
+    } else if (tb[c]) {
       count--;
-      tb[t[i]]--;
+      tb[c]--;
     }
   }
 
