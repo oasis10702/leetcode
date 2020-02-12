@@ -59,22 +59,17 @@
  */
 var advantageCount = function(A, B) {
   const ans = [];
-  A = A.sort((a, b) => a - b);
-  for (let b of B) {
-    for (let i = 0; i < A.length; i++) {
-      if (A[i] > b) {
-        ans.push(A.splice(i, 1));
-        break;
-      } else if (i === A.length - 1) {
-        ans.push(null);
-      }
+  const take = {};
+  A.sort((a, b) => a - b);
+  for (let b of B.slice().sort((a, b) => b - a)) {
+    if (A[A.length - 1] > b) {
+      if (!take[b]) take[b] = [];
+      take[b].push(A.pop());
     }
   }
 
-  for (let i in ans) {
-    if (!ans[i]) {
-      ans[i] = A.pop();
-    }
+  for (let b of B) {
+    ans.push(take[b] && take[b].length ? take[b].pop() : A.pop());
   }
 
   return ans;
