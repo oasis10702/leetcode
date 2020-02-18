@@ -55,6 +55,7 @@
  * @return {number}
  */
 var findTargetSumWays = function(nums, S) {
+  /* dfs solution
   let count = 0;
   dfs(0, 0);
   function dfs(idx, cur) {
@@ -67,6 +68,26 @@ var findTargetSumWays = function(nums, S) {
     dfs(idx + 1, cur - nums[idx]);
   }
 
-  return count;
+  return count; 
+  */
+
+  const sum = nums.reduce((a, b) => a + b, 0);
+  if (sum < S || (S + sum) % 2 === 1) {
+    return 0;
+  }
+
+  const c = (S + sum) / 2;
+  const dp = new Array(c + 1).fill(0);
+  dp[0] = 1;
+
+  for (let num of nums) {
+    let i = c;
+    while (i >= num) {
+      dp[i] = dp[i] + dp[i - num];
+      i--;
+    }
+  }
+
+  return dp[c];
 };
 // @lc code=end
