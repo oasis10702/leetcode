@@ -10,11 +10,16 @@
  * @return {boolean}
  */
 var checkStraightLine = function(coordinates) {
-  coordinates.sort((a, b) => a[0] - b[0]);
-  const slope = (coordinates[1][0] - coordinates[0][0]) / (coordinates[1][1] - coordinates[0][1]);
-  for (let i = 1; i < coordinates.length - 1; i++) {
-    const slp = (coordinates[i + 1][0] - coordinates[i][0]) / (coordinates[i + 1][1] - coordinates[i][1]);
-    if (slp !== slope) return false;
+  const x0 = coordinates[0][0];
+  const y0 = coordinates[0][1];
+  const x1 = coordinates[1][0];
+  const y1 = coordinates[1][1];
+  const dx = x1 - x0;
+  const dy = y1 - y0;
+  for (let c of coordinates) {
+    const x = c[0];
+    const y = c[1];
+    if (dx * (y - y1) !== dy * (x - x1)) return false;
   }
 
   return true;
