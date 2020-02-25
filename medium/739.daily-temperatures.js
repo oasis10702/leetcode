@@ -34,19 +34,34 @@
  * @param {number[]} T
  * @return {number[]}
  */
+// var dailyTemperatures = function(T) {
+//   for (let i = 0; i < T.length; i++) {
+//     if (i === T.length - 1) T[i] = 0;
+//     for (let j = i + 1; j < T.length; j++) {
+//       if (T[j] > T[i]) {
+//         T[i] = j - i;
+//         break;
+//       } else if (j === T.length - 1) {
+//         T[i] = 0;
+//       }
+//     }
+//   }
+
+//   return T;
+// };
+
 var dailyTemperatures = function(T) {
+  const stack = [];
+  const ans = new Array(T.length).fill(0);
   for (let i = 0; i < T.length; i++) {
-    if (i === T.length - 1) T[i] = 0;
-    for (let j = i + 1; j < T.length; j++) {
-      if (T[j] > T[i]) {
-        T[i] = j - i;
-        break;
-      } else if (j === T.length - 1) {
-        T[i] = 0;
-      }
+    while (stack.length && T[i] > T[stack[stack.length - 1]]) {
+      const idx = stack.pop();
+      ans[idx] = i - idx;
     }
+
+    stack.push(i);
   }
 
-  return T;
+  return ans;
 };
 // @lc code=end
