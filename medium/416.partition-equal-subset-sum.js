@@ -61,6 +61,25 @@ var canPartition = function(nums) {
   const sum = nums.reduce((a, b) => a + b, 0);
   if (sum % 2 !== 0) return false;
   const target = sum / 2;
-  //   ...
+  const dp = new Array(nums.length)
+    .fill()
+    .map(() => new Array(target + 1).fill(false));
+  dp[0][nums[0]] = true;
+
+  for (let i = 1; i < nums.length; i++) {
+    for (let j = 0; j <= target; j++) {
+      dp[i][j] = dp[i - 1][j];
+
+      if (nums[i] === j) {
+        dp[i][j] = true;
+      }
+
+      if (nums[i] < j) {
+        dp[i][j] = dp[i - 1][j] || dp[i - 1][j - nums[i]];
+      }
+    }
+  }
+
+  return dp[nums.length - 1][target];
 };
 // @lc code=end
