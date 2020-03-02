@@ -78,6 +78,8 @@ var canPartition = function(nums) {
         dp[i][j] = dp[i - 1][j] || dp[i - 1][j - nums[i]];
       }
     }
+
+    if (dp[i][target]) return true;
   }
 
   return dp[nums.length - 1][target];
