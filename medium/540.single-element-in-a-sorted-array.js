@@ -48,23 +48,32 @@ var singleNonDuplicate = function(nums) {
   let lo = 0;
   let hi = nums.length - 1;
 
+  //   while (lo < hi) {
+  //     const mid = Math.floor((lo + hi) / 2);
+  //     const isEven = (hi - mid) % 2 === 0;
+  //     if (nums[mid + 1] === nums[mid]) {
+  //       if (isEven) {
+  //         lo = mid + 2;
+  //       } else {
+  //         hi = mid - 1;
+  //       }
+  //     } else if (nums[mid - 1] === nums[mid]) {
+  //       if (isEven) {
+  //         hi = mid - 2;
+  //       } else {
+  //         lo = mid + 1;
+  //       }
+  //     } else {
+  //       return nums[mid];
+  //     }
+  //   }
   while (lo < hi) {
-    const mid = (lo + hi) / 2;
-    const isEven = (hi - mid) % 2 === 0;
-    if (nums[mid + 1] === nums[mid]) {
-      if (isEven) {
-        lo = mid + 2;
-      } else {
-        hi = mid - 1;
-      }
-    } else if (nums[mid - 1] === nums[mid]) {
-      if (isEven) {
-        hi = mid - 2;
-      } else {
-        lo = mid + 1;
-      }
+    let mid = Math.floor((lo + hi) / 2);
+    if (mid % 2 === 1) mid--;
+    if (nums[mid] === nums[mid + 1]) {
+      lo = mid + 2;
     } else {
-      return nums[mid];
+      hi = mid;
     }
   }
 
