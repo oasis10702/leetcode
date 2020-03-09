@@ -59,6 +59,7 @@
 /* 
     ref: https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by--26/
  */
+/* solution#1 
 var flatten = function(root) {
   while (root) {
     if (root.left === null) {
@@ -75,6 +76,21 @@ var flatten = function(root) {
       root = root.right;
     }
   }
+};
+*/
+
+var flatten = function(root) {
+  let prev = null;
+  function recurse(node) {
+    if (!node) return;
+    recurse(node.right);
+    recurse(node.left);
+    node.right = prev;
+    node.left = null;
+    prev = node;
+  }
+
+  recurse(root);
 };
 
 // @lc code=end
