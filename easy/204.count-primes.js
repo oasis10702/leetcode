@@ -10,18 +10,19 @@
  * @return {number}
  */
 var countPrimes = function(n) {
-  let count = 0;
-  for (let i = 1; i < n; i++) {
-    if (isPrime(i)) {
+  if (n <= 2) return 0;
+  let count = 1;
+  const isPrime = new Array(n).fill(false);
+  for (let i = 3; i < n; i += 2) {
+    if (!isPrime[i]) {
       count++;
+      for (let j = 3; i * j < n; j += 2) {
+        isPrime[i * j] = true;
+      }
     }
   }
 
   return count;
 };
 
-const isPrime = num => {
-  for (let i = 2, s = Math.sqrt(num); i <= s; i++) if (num % i === 0) return false;
-  return num > 1;
-};
 // @lc code=end
