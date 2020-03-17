@@ -64,7 +64,12 @@ var makesquare = function(nums) {
   const target = sum / 4;
   const arr = new Array(4).fill(0);
 
-  return dfs(nums, arr, 0, target);
+  return dfs(
+    nums.sort((a, b) => b - a),
+    arr,
+    0,
+    target
+  );
 };
 
 const dfs = function(nums, arr, index, target) {
