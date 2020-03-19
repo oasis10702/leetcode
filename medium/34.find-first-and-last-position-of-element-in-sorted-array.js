@@ -56,5 +56,43 @@ var searchRange = function(nums, target) {
 
   return [first, last];
   */
+  let left = 0;
+  let right = nums.length - 1;
+  const ans = [-1, -1];
+
+  // find left bound
+  while (left <= right) {
+    const mid = Math.floor((left + right) / 2);
+    if (nums[mid] === target) {
+      right = mid - 1;
+    } else if (nums[mid] > target) {
+      right = mid - 1;
+    } else if (nums[mid] < target) {
+      left = mid + 1;
+    }
+  }
+
+  if (nums[left] !== target) {
+    return ans;
+  } else {
+    ans[0] = left;
+  }
+
+  right = nums.length - 1;
+
+  // find right bound
+  while (left <= right) {
+    const mid = Math.floor((left + right) / 2);
+    if (nums[mid] === target) {
+      left = mid + 1;
+    } else if (nums[mid] > target) {
+      right = mid - 1;
+    } else if (nums[mid] < target) {
+      left = mid + 1;
+    }
+  }
+  ans[1] = right;
+
+  return ans;
 };
 // @lc code=end
