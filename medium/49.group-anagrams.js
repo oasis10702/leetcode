@@ -41,26 +41,40 @@
  * @return {string[][]}
  */
 var groupAnagrams = function(strs) {
-  const tb = {};
-  const ans = [];
-  let index = 0;
+  //   const tb = {};
+  //   const ans = [];
+  //   let index = 0;
+
+  //   for (let str of strs) {
+  //     const sortStr = str
+  //       .split('')
+  //       .sort()
+  //       .join('');
+
+  //     if (!tb[sortStr] && tb[sortStr] !== 0) {
+  //       tb[sortStr] = index;
+  //       ans[index] = [str];
+  //       index++;
+  //     } else {
+  //       ans[tb[sortStr]].push(str);
+  //     }
+  //   }
+
+  //   return ans;
+
+  const map = {};
 
   for (let str of strs) {
-    const sortStr = str
-      .split('')
-      .sort()
-      .join('');
+    const key = [...str].sort().join('');
 
-    if (!tb[sortStr] && tb[sortStr] !== 0) {
-      tb[sortStr] = index;
-      ans[index] = [str];
-      index++;
-    } else {
-      ans[tb[sortStr]].push(str);
+    if (!map[key]) {
+      map[key] = [];
     }
+
+    map[key].push(str);
   }
 
-  return ans;
+  return Object.values(map);
 };
 
 // @lc code=end
