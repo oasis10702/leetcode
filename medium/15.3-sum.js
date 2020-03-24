@@ -44,7 +44,9 @@ var threeSum = function(nums) {
   if (nums.length < 3) return ans;
   nums.sort((a, b) => a - b);
   for (let i = 0; i < nums.length - 2; i++) {
+    // all nums after index i are larger than 0
     if (nums[i] > 0) break;
+    // duplicated
     if (i > 0 && nums[i] === nums[i - 1]) continue;
     let L = i + 1;
     let R = nums.length - 1;
