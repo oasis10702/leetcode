@@ -69,22 +69,38 @@
  * @return {number}
  */
 var removeDuplicates = function(nums) {
-  let count = 0;
-  let cur;
-  for (let i = 0; i < nums.length; i++) {
-    if (nums[i] !== cur) {
-      cur = nums[i];
-      count = 1;
-    } else {
+  //   let count = 0;
+  //   let cur;
+  //   for (let i = 0; i < nums.length; i++) {
+  //     if (nums[i] !== cur) {
+  //       cur = nums[i];
+  //       count = 1;
+  //     } else {
+  //       count++;
+  //     }
+
+  //     if (count > 2) {
+  //       nums.splice(i, 1);
+  //       i--;
+  //     }
+  //   }
+
+  //   return nums.length;
+
+  let index = 0;
+  let count = 1;
+
+  for (let i = 1; i < nums.length; i++) {
+    if (nums[i] === nums[index]) {
       count++;
+    } else {
+      count = 1;
     }
 
-    if (count > 2) {
-      nums.splice(i, 1);
-      i--;
-    }
+    if (count <= 2) index++;
+    nums[index] = nums[i];
   }
 
-  return nums.length;
+  return index + 1;
 };
 // @lc code=end
