@@ -12,34 +12,33 @@
 var partition = function(s) {
   const ans = [];
 
-  backtrack(0, []);
-
-  function backtrack(srt, arr) {
-    if (srt === s.length) {
-      ans.push(arr);
-      return;
-    }
-
-    for (let i = srt; i < s.length; i++) {
-      const str = s.substring(srt, i + 1);
-      if (isPalindrome(str)) {
-        arr.push(str);
-        backtrack(i + 1, [...arr]);
-        arr.pop();
-      }
-    }
-  }
+  backtrack(ans, s, 0, []);
 
   return ans;
 };
 
-function isPalindrome(s) {
-  return (
-    s ===
-    s
-      .split('')
-      .reverse()
-      .join('')
-  );
+function backtrack(ans, s, srt, arr) {
+  if (srt === s.length) {
+    ans.push(arr);
+    return;
+  }
+
+  for (let i = srt; i < s.length; i++) {
+    if (isPalindrome(s, srt, i)) {
+      arr.push(s.substring(srt, i + 1));
+      backtrack(ans, s, i + 1, [...arr]);
+      arr.pop();
+    }
+  }
+}
+
+function isPalindrome(s, srt, end) {
+  while (srt < end) {
+    if (s[srt] !== s[end]) return false;
+    srt++;
+    end--;
+  }
+
+  return true;
 }
 // @lc code=end
