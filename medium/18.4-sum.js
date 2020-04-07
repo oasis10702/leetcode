@@ -11,6 +11,6 @@
  * @return {number[][]}
  */
 var fourSum = function(nums, target) {
-  // TODO
+  // TODO: 4Sum
 };
 // @lc code=end
