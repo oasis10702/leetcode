@@ -17,6 +17,13 @@
  * @return {number}
  */
 var rob = function(root) {
-  // TODO
+  if (!root) return 0;
+
+  let money = root.val;
+
+  if (root.left) money += rob(root.left.left) + rob(root.left.right);
+  if (root.right) money += rob(root.right.left) + rob(root.right.right);
+
+  return Math.max(money, rob(root.left) + rob(root.right));
 };
 // @lc code=end
