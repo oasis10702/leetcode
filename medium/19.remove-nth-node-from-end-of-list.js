@@ -17,6 +17,7 @@
  * @param {number} n
  * @return {ListNode}
  */
+/* solution 1
 var removeNthFromEnd = function(head, n) {
   // dummy is to avoid head deleted
   const dummy = new ListNode(0);
@@ -40,6 +41,29 @@ var removeNthFromEnd = function(head, n) {
   }
 
   first.next = first.next.next;
+  return dummy.next;
+};
+*/
+
+// solution 2 - one pass by two pointers
+var removeNthFromEnd = function(head, n) {
+  // dummy is to avoid head deleted
+  const dummy = new ListNode(0);
+  dummy.next = head;
+  let first = dummy;
+  let second = dummy;
+
+  // move first pointer so that first and second is n nodes apart
+  for (let i = 1; i <= n + 1; i++) {
+    first = first.next;
+  }
+
+  while (first) {
+    first = first.next;
+    second = second.next;
+  }
+
+  second.next = second.next.next;
   return dummy.next;
 };
 // @lc code=end
