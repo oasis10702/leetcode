@@ -17,7 +17,7 @@
  * @param {number} n
  * @return {ListNode}
  */
-/* solution 1
+/* solution 1 - two pass (the first pass is to get list length)
 var removeNthFromEnd = function(head, n) {
   // dummy is to avoid head deleted
   const dummy = new ListNode(0);
