@@ -9,6 +9,8 @@
  * @param {string} preorder
  * @return {boolean}
  */
+
+// solution 1
 var isValidSerialization = function(preorder) {
   preorder = preorder.split(',');
 
