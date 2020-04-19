@@ -1,4 +1,4 @@
 # My LeetCode Practice
 
-- Upload solved problems and make some notes
+- Upload solved problems and make notes
 - Practice and review algorithm
