@@ -9,6 +9,8 @@
  * @param {number[]} nums
  * @return {number}
  */
+
+/* solution 1 - hash map
 var singleNumber = function(nums) {
   const map = {};
 
@@ -23,5 +25,15 @@ var singleNumber = function(nums) {
   for (let k in map) {
     if (map[k] === 1) return k;
   }
+};
+*/
+
+var singleNumber = function(nums) {
+  let once = 0;
+  for (let n of nums) {
+    once ^= n;
+  }
+
+  return once;
 };
 // @lc code=end
