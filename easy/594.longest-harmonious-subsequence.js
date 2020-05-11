@@ -14,16 +14,15 @@ var findLHS = function(nums) {
   let max = 0;
 
   for (let n of nums) {
-    tb[n] = tb[n] ? tb[n] + 1 : 1;
+    tb[n] = tb[n] + 1 || 1;
   }
 
-  const keys = Object.keys(tb).sort((a, b) => a - b);
-
-  for (let i = 0; i < keys.length - 1; i++) {
-    if (Math.abs(keys[i] - keys[i + 1]) === 1) {
-      max = Math.max(max, tb[keys[i]] + tb[keys[i + 1]]);
+  for (let key in tb) {
+    if (tb[parseInt(key) + 1]) {
+      max = Math.max(max, tb[key] + tb[parseInt(key) + 1]);
     }
   }
+
   return max;
 };
 // @lc code=end
