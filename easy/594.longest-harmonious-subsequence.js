@@ -17,6 +17,7 @@ var findLHS = function(nums) {
     tb[n] = tb[n] + 1 || 1;
   }
 
+  // try parseInt or Number
   for (let key in tb) {
     if (tb[parseInt(key) + 1]) {
       max = Math.max(max, tb[key] + tb[parseInt(key) + 1]);
