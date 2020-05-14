@@ -6,3 +6,5 @@ This project is built for:
 - Practice code interview and review algorithm
 
 Please reference to problem sets in LeetCcde: https://leetcode.com/problemset/all/
+
+# Generate by VS LeetCode
