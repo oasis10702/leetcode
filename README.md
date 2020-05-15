@@ -8,3 +8,5 @@ This project is built for:
 Please reference to problem sets in LeetCcde: https://leetcode.com/problemset/all/
 
 # Generate by VS LeetCode
+
+https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-leetcode
