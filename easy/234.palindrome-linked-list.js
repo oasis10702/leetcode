@@ -38,6 +38,7 @@ var isPalindrome = function(head) {
   return true;
 };
 
+// reverse link-list
 const reverse = head => {
   let prev = null;
   let next = null;
