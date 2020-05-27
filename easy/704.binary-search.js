@@ -18,12 +18,12 @@ var search = function(nums, target) {
     const mid = Math.floor((lo + hi) / 2);
     const n = nums[mid];
 
-    if (target > n) {
+    if (target === n) {
+      return mid;
+    } else if (target > n) {
       lo = mid + 1;
     } else if (target < n) {
       hi = mid - 1;
-    } else if (target === n) {
-      return mid;
     }
   }
 
