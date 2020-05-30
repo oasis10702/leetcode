@@ -19,20 +19,11 @@
  * @return {TreeNode}
  */
 var searchBST = function(root, val) {
-  const node = binarySearch(root, val);
-
-  return node;
-};
-
-const binarySearch = (node, target) => {
-  if (!node) return null;
-
-  if (target === node.val) {
-    return node;
-  } else if (target > node.val) {
-    return binarySearch(node.right, target);
-  } else if (target < node.val) {
-    return binarySearch(node.left, target);
+  while (root) {
+    if (root.val === val) break;
+    else if (root.val > val) root = root.left;
+    else if (root.val < val) root = root.right;
   }
+  return root;
 };
 // @lc code=end
