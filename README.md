@@ -9,4 +9,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 
 # Generate by VS LeetCode
 
-https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-leetcode
+[vscode for leetcode](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-leetcode)
