@@ -13,3 +13,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 
 # Solved
 
+[1.two-sum]
