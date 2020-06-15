@@ -13,4 +13,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 
 # Solved
 
-[1.two-sum]
+[1.two-sum](https://github.com/oasis10702/leetcode/blob/master/easy/1.two-sum.js)
