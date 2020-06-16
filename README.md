@@ -14,3 +14,5 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 # Solved
 
 [1.two-sum](https://github.com/oasis10702/leetcode/blob/master/easy/1.two-sum.js)
+
+[3.longest-substring-without-repeating-characters](https://github.com/oasis10702/leetcode/blob/master/medium/3.longest-substring-without-repeating-characters.js)
