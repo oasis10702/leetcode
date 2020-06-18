@@ -18,4 +18,5 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [11.container-with-most-water](https://github.com/oasis10702/leetcode/blob/master/medium/11.container-with-most-water.js)\
 [12.integer-to-roman](https://github.com/oasis10702/leetcode/blob/master/medium/12.integer-to-roman.js)\
 [15.3-sum](https://github.com/oasis10702/leetcode/blob/master/medium/15.3-sum.js)\
-[16.3-sum-closest](https://github.com/oasis10702/leetcode/blob/master/medium/16.3-sum-closest)
+[16.3-sum-closest](https://github.com/oasis10702/leetcode/blob/master/medium/16.3-sum-closest)\
+[17.letter-combinations-of-a-phone-number](https://github.com/oasis10702/leetcode/blob/master/medium/17.letter-combinations-of-a-phone-number)
