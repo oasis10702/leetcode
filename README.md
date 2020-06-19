@@ -19,4 +19,5 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [12.integer-to-roman](https://github.com/oasis10702/leetcode/blob/master/medium/12.integer-to-roman.js)\
 [15.3-sum](https://github.com/oasis10702/leetcode/blob/master/medium/15.3-sum.js)\
 [16.3-sum-closest](https://github.com/oasis10702/leetcode/blob/master/medium/16.3-sum-closest)\
-[17.letter-combinations-of-a-phone-number](https://github.com/oasis10702/leetcode/blob/master/medium/17.letter-combinations-of-a-phone-number)
+[17.letter-combinations-of-a-phone-number](https://github.com/oasis10702/leetcode/blob/master/medium/17.letter-combinations-of-a-phone-number)\
+[18.4-sum](https://github.com/oasis10702/leetcode/blob/master/medium/18.4-sum)
