@@ -23,4 +23,5 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [18.4-sum](https://github.com/oasis10702/leetcode/blob/master/medium/18.4-sum.js)\
 [19.remove-nth-node-from-end-of-list](https://github.com/oasis10702/leetcode/blob/master/medium/19.remove-nth-node-from-end-of-list.js)\
 [20.valid-parentheses](https://github.com/oasis10702/leetcode/blob/master/easy/20.valid-parentheses.js)\
-[22.generate-parentheses](https://github.com/oasis10702/leetcode/blob/master/medium/22.generate-parentheses.js)
+[22.generate-parentheses](https://github.com/oasis10702/leetcode/blob/master/medium/22.generate-parentheses.js)\
+[24.swap-nodes-in-pairs](https://github.com/oasis10702/leetcode/blob/master/medium/24.swap-nodes-in-pairs.js)
