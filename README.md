@@ -27,4 +27,5 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [24.swap-nodes-in-pairs](https://github.com/oasis10702/leetcode/blob/master/medium/24.swap-nodes-in-pairs.js)\
 [33.search-in-rotated-sorted-array](https://github.com/oasis10702/leetcode/blob/master/medium/33.search-in-rotated-sorted-array.js)\
 [34.find-first-and-last-position-of-element-in-sorted-array](https://github.com/oasis10702/leetcode/blob/master/medium/34.find-first-and-last-position-of-element-in-sorted-array.js)\
-[36.valid-sudoku](https://github.com/oasis10702/leetcode/blob/master/medium/36.valid-sudoku.js)
+[36.valid-sudoku](https://github.com/oasis10702/leetcode/blob/master/medium/36.valid-sudoku.js)\
+[48.rotate-image](https://github.com/oasis10702/leetcode/blob/master/medium/48.rotate-image.js)
