@@ -30,5 +30,6 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [36.valid-sudoku](https://github.com/oasis10702/leetcode/blob/master/medium/36.valid-sudoku.js)\
 [41.first-missing-positive](https://github.com/oasis10702/leetcode/blob/master/hard/41.first-missing-positive.js)\
 [48.rotate-image](https://github.com/oasis10702/leetcode/blob/master/medium/48.rotate-image.js)\
-[49.group-anagrams](https://github.com/oasis10702/leetcode/blob/master/49.group-anagrams.js)\
-[50.pow-x-n](https://github.com/oasis10702/leetcode/blob/master/50.pow-x-n.js)\
+[49.group-anagrams](https://github.com/oasis10702/leetcode/blob/master/medium/49.group-anagrams.js)\
+[50.pow-x-n](https://github.com/oasis10702/leetcode/blob/master/medium/50.pow-x-n.js)\
+[54.spiral-matrix](https://github.com/oasis10702/leetcode/blob/master/medium/54.spiral-matrix.js)\
