@@ -28,6 +28,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [33.search-in-rotated-sorted-array](https://github.com/oasis10702/leetcode/blob/master/medium/33.search-in-rotated-sorted-array.js)\
 [34.find-first-and-last-position-of-element-in-sorted-array](https://github.com/oasis10702/leetcode/blob/master/medium/34.find-first-and-last-position-of-element-in-sorted-array.js)\
 [36.valid-sudoku](https://github.com/oasis10702/leetcode/blob/master/medium/36.valid-sudoku.js)\
+[41.first-missing-positive](https://github.com/oasis10702/leetcode/blob/master/hard/41.first-missing-positive.js)\
 [48.rotate-image](https://github.com/oasis10702/leetcode/blob/master/medium/48.rotate-image.js)\
 [49.group-anagrams](https://github.com/oasis10702/leetcode/blob/master/49.group-anagrams.js)\
 [50.pow-x-n](https://github.com/oasis10702/leetcode/blob/master/50.pow-x-n.js)\
