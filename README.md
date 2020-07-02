@@ -34,3 +34,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [50.pow-x-n](https://github.com/oasis10702/leetcode/blob/master/medium/50.pow-x-n.js)\
 [54.spiral-matrix](https://github.com/oasis10702/leetcode/blob/master/medium/54.spiral-matrix.js)\
 [55.jump-game](https://github.com/oasis10702/leetcode/blob/master/medium/55.jump-game.js)\
+[59.spiral-matrix-ii](https://github.com/oasis10702/leetcode/blob/master/medium/59.spiral-matrix-ii.js)\
