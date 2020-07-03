@@ -35,3 +35,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [54.spiral-matrix](https://github.com/oasis10702/leetcode/blob/master/medium/54.spiral-matrix.js)\
 [55.jump-game](https://github.com/oasis10702/leetcode/blob/master/medium/55.jump-game.js)\
 [59.spiral-matrix-ii](https://github.com/oasis10702/leetcode/blob/master/medium/59.spiral-matrix-ii.js)\
+[62.unique-paths](https://github.com/oasis10702/leetcode/blob/master/medium/62.unique-paths.js)
