@@ -36,4 +36,5 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [55.jump-game](https://github.com/oasis10702/leetcode/blob/master/medium/55.jump-game.js)\
 [59.spiral-matrix-ii](https://github.com/oasis10702/leetcode/blob/master/medium/59.spiral-matrix-ii.js)\
 [62.unique-paths](https://github.com/oasis10702/leetcode/blob/master/medium/62.unique-paths.js)\
-[63.unique-paths-ii](https://github.com/oasis10702/leetcode/blob/master/medium/63.unique-paths-ii.js)
+[63.unique-paths-ii](https://github.com/oasis10702/leetcode/blob/master/medium/63.unique-paths-ii.js)\
+[64.minimum-path-sum](https://github.com/oasis10702/leetcode/blob/master/medium/64.minimum-path-sum.js)
