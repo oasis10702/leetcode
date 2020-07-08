@@ -40,3 +40,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [64.minimum-path-sum](https://github.com/oasis10702/leetcode/blob/master/medium/64.minimum-path-sum.js)\
 [69.sqrt-x](https://github.com/oasis10702/leetcode/blob/master/easy/69.sqrt-x.js)\
 [72.edit-distance](https://github.com/oasis10702/leetcode/blob/master/hard/72.edit-distance.js)\
+[73.set-matrix-zeroes](https://github.com/oasis10702/leetcode/blob/master/medium/73.set-matrix-zeroes.js)\
