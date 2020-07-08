@@ -41,3 +41,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [69.sqrt-x](https://github.com/oasis10702/leetcode/blob/master/easy/69.sqrt-x.js)\
 [72.edit-distance](https://github.com/oasis10702/leetcode/blob/master/hard/72.edit-distance.js)\
 [73.set-matrix-zeroes](https://github.com/oasis10702/leetcode/blob/master/medium/73.set-matrix-zeroes.js)\
+[75.sort-colors](https://github.com/oasis10702/leetcode/blob/master/medium/75.sort-colors.js)\
