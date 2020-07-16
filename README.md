@@ -52,3 +52,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [114.flatten-binary-tree-to-linked-list](https://github.com/oasis10702/leetcode/blob/master/medium/114.flatten-binary-tree-to-linked-list.js)\
 [120.triangle](https://github.com/oasis10702/leetcode/blob/master/medium/120.triangle.js)\
 [122.best-time-to-buy-and-sell-stock-ii](https://github.com/oasis10702/leetcode/blob/master/medium/122.best-time-to-buy-and-sell-stock-ii.js)\
+[131.palindrome-partitioning](https://github.com/oasis10702/leetcode/blob/master/medium/131.palindrome-partitioning.js)\
