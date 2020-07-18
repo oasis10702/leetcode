@@ -55,3 +55,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [131.palindrome-partitioning](https://github.com/oasis10702/leetcode/blob/master/medium/131.palindrome-partitioning.js)\
 [137.single-number-ii](https://github.com/oasis10702/leetcode/blob/master/medium/137.single-number-ii.js)\
 [139.word-break](https://github.com/oasis10702/leetcode/blob/master/medium/139.word-break.js)\
+[144.binary-tree-preorder-traversal](https://github.com/oasis10702/leetcode/blob/master/medium/144.binary-tree-preorder-traversal.js)\
