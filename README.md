@@ -58,3 +58,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [144.binary-tree-preorder-traversal](https://github.com/oasis10702/leetcode/blob/master/medium/144.binary-tree-preorder-traversal.js)\
 [146.lru-cache](https://github.com/oasis10702/leetcode/blob/master/medium/146.lru-cache.js)\
 [151.reverse-words-in-a-string](https://github.com/oasis10702/leetcode/blob/master/medium/151.reverse-words-in-a-string.js)\
+[152.maximum-product-subarray](https://github.com/oasis10702/leetcode/blob/master/medium/152.maximum-product-subarray.js)\
