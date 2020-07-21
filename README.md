@@ -59,3 +59,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [146.lru-cache](https://github.com/oasis10702/leetcode/blob/master/medium/146.lru-cache.js)\
 [151.reverse-words-in-a-string](https://github.com/oasis10702/leetcode/blob/master/medium/151.reverse-words-in-a-string.js)\
 [152.maximum-product-subarray](https://github.com/oasis10702/leetcode/blob/master/medium/152.maximum-product-subarray.js)\
+[153.find-minimum-in-rotated-sorted-array](https://github.com/oasis10702/leetcode/blob/master/medium/153.find-minimum-in-rotated-sorted-array)\
