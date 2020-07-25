@@ -66,3 +66,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [213.house-robber-ii](https://github.com/oasis10702/leetcode/blob/master/medium/213.house-robber-ii)\
 [215.kth-largest-element-in-an-array](https://github.com/oasis10702/leetcode/blob/master/medium/215.kth-largest-element-in-an-array)\
 [230.kth-smallest-element-in-a-bst](https://github.com/oasis10702/leetcode/blob/master/medium/230.kth-smallest-element-in-a-bst)\
+[279.perfect-squares](https://github.com/oasis10702/leetcode/blob/master/medium/279.perfect-squares)\
