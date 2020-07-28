@@ -70,3 +70,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [287.find-the-duplicate-number](https://github.com/oasis10702/leetcode/blob/master/medium/287.find-the-duplicate-number)\
 [309.best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/oasis10702/leetcode/blob/master/medium/309.best-time-to-buy-and-sell-stock-with-cooldown)\
 [324.wiggle-sort-ii](https://github.com/oasis10702/leetcode/blob/master/medium/324.wiggle-sort-ii)\
+[328.odd-even-linked-list](https://github.com/oasis10702/leetcode/blob/master/medium/328.odd-even-linked-list)\
