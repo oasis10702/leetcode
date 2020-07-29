@@ -71,3 +71,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [309.best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/oasis10702/leetcode/blob/master/medium/309.best-time-to-buy-and-sell-stock-with-cooldown)\
 [324.wiggle-sort-ii](https://github.com/oasis10702/leetcode/blob/master/medium/324.wiggle-sort-ii)\
 [328.odd-even-linked-list](https://github.com/oasis10702/leetcode/blob/master/medium/328.odd-even-linked-list)\
+[331.verify-preorder-serialization-of-a-binary-tree](https://github.com/oasis10702/leetcode/blob/master/medium/331.verify-preorder-serialization-of-a-binary-tree)\
