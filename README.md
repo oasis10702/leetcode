@@ -74,3 +74,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [331.verify-preorder-serialization-of-a-binary-tree](https://github.com/oasis10702/leetcode/blob/master/medium/331.verify-preorder-serialization-of-a-binary-tree)\
 [334.increasing-triplet-subsequence](https://github.com/oasis10702/leetcode/blob/master/medium/334.increasing-triplet-subsequence)\
 [337.house-robber-iii](https://github.com/oasis10702/leetcode/blob/master/medium/337.house-robber-iii)\
+[378.kth-smallest-element-in-a-sorted-matrix](378.kth-smallest-element-in-a-sorted-matrix)\
