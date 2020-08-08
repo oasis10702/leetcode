@@ -81,3 +81,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [416.partition-equal-subset-sum](https://github.com/oasis10702/leetcode/blob/master/medium/416.partition-equal-subset-sum.js)\
 [456.132-pattern](https://github.com/oasis10702/leetcode/blob/master/medium/456.132-pattern.js)\
 [473.matchsticks-to-square](https://github.com/oasis10702/leetcode/blob/master/medium/473.matchsticks-to-square.js)\
+[486.predict-the-winner](https://github.com/oasis10702/leetcode/blob/master/medium/486.predict-the-winner.js)\
