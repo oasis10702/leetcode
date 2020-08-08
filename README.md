@@ -82,3 +82,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [456.132-pattern](https://github.com/oasis10702/leetcode/blob/master/medium/456.132-pattern.js)\
 [473.matchsticks-to-square](https://github.com/oasis10702/leetcode/blob/master/medium/473.matchsticks-to-square.js)\
 [486.predict-the-winner](https://github.com/oasis10702/leetcode/blob/master/medium/486.predict-the-winner.js)\
+[491.increasing-subsequences](https://github.com/oasis10702/leetcode/blob/master/medium/491.increasing-subsequences.js)\
