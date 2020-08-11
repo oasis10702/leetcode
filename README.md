@@ -84,3 +84,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [486.predict-the-winner](https://github.com/oasis10702/leetcode/blob/master/medium/486.predict-the-winner.js)\
 [491.increasing-subsequences](https://github.com/oasis10702/leetcode/blob/master/medium/491.increasing-subsequences.js)\
 [494.target-sum](https://github.com/oasis10702/leetcode/blob/master/medium/494.target-sum.js)\
+[540.single-element-in-a-sorted-array](https://github.com/oasis10702/leetcode/blob/master/medium/540.single-element-in-a-sorted-array.js)\
