@@ -85,3 +85,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [491.increasing-subsequences](https://github.com/oasis10702/leetcode/blob/master/medium/491.increasing-subsequences.js)\
 [494.target-sum](https://github.com/oasis10702/leetcode/blob/master/medium/494.target-sum.js)\
 [540.single-element-in-a-sorted-array](https://github.com/oasis10702/leetcode/blob/master/medium/540.single-element-in-a-sorted-array.js)\
+[670.maximum-swap](https://github.com/oasis10702/leetcode/blob/master/medium/670.maximum-swap.js)\
