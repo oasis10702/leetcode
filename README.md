@@ -91,3 +91,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [740.delete-and-earn](https://github.com/oasis10702/leetcode/blob/master/medium/740.delete-and-earn.js)\
 [763.partition-labels](https://github.com/oasis10702/leetcode/blob/master/medium/763.partition-labels.js)\
 [870.advantage-shuffle](https://github.com/oasis10702/leetcode/blob/master/medium/870.advantage-shuffle.js)\
+[881.boats-to-save-people](https://github.com/oasis10702/leetcode/blob/master/medium/881.boats-to-save-people.js)\
