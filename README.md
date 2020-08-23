@@ -94,3 +94,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [881.boats-to-save-people](https://github.com/oasis10702/leetcode/blob/master/medium/881.boats-to-save-people.js)\
 [979.distribute-coins-in-binary-tree](https://github.com/oasis10702/leetcode/blob/master/medium/979.distribute-coins-in-binary-tree.js)\
 [983.minimum-cost-for-tickets](https://github.com/oasis10702/leetcode/blob/master/medium/983.minimum-cost-for-tickets.js)\
+[1130.minimum-cost-tree-from-leaf-values](https://github.com/oasis10702/leetcode/blob/master/medium/1130.minimum-cost-tree-from-leaf-values.js)\
