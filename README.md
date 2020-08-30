@@ -98,3 +98,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [1219.path-with-maximum-gold](https://github.com/oasis10702/leetcode/blob/master/medium/1219.path-with-maximum-gold.js)\
 [1227.airplane-seat-assignment-probability](https://github.com/oasis10702/leetcode/blob/master/medium/1227.airplane-seat-assignment-probability.js)\
 [1282.group-the-people-given-the-group-size-they-belong-to](https://github.com/oasis10702/leetcode/blob/master/medium/1282.group-the-people-given-the-group-size-they-belong-to.js)\
+[1302.deepest-leaves-sum](https://github.com/oasis10702/leetcode/blob/master/medium/1302.deepest-leaves-sum.js)\
