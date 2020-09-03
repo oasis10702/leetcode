@@ -50,6 +50,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [107.binary-tree-level-order-traversal-ii](https://github.com/oasis10702/leetcode/blob/master/easy/107.binary-tree-level-order-traversal-ii.js)\
 [108.convert-sorted-array-to-binary-search-tree](https://github.com/oasis10702/leetcode/blob/master/easy/108.convert-sorted-array-to-binary-search-tree.js)\
 [109.convert-sorted-list-to-binary-search-tree](https://github.com/oasis10702/leetcode/blob/master/medium/109.convert-sorted-list-to-binary-search-tree.js)\
+[110.balanced-binary-tree](https://github.com/oasis10702/leetcode/blob/master/easy/110.balanced-binary-tree.js)\
 [113.path-sum-ii](https://github.com/oasis10702/leetcode/blob/master/medium/113.path-sum-ii.js)\
 [114.flatten-binary-tree-to-linked-list](https://github.com/oasis10702/leetcode/blob/master/medium/114.flatten-binary-tree-to-linked-list.js)\
 [120.triangle](https://github.com/oasis10702/leetcode/blob/master/medium/120.triangle.js)\
