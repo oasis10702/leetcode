@@ -52,6 +52,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [109.convert-sorted-list-to-binary-search-tree](https://github.com/oasis10702/leetcode/blob/master/medium/109.convert-sorted-list-to-binary-search-tree.js)\
 [110.balanced-binary-tree](https://github.com/oasis10702/leetcode/blob/master/easy/110.balanced-binary-tree.js)\
 [111.minimum-depth-of-binary-tree](https://github.com/oasis10702/leetcode/blob/master/easy/111.minimum-depth-of-binary-tree.js)\
+[112.path-sum](https://github.com/oasis10702/leetcode/blob/master/easy/112.path-sum.js)\
 [113.path-sum-ii](https://github.com/oasis10702/leetcode/blob/master/medium/113.path-sum-ii.js)\
 [114.flatten-binary-tree-to-linked-list](https://github.com/oasis10702/leetcode/blob/master/medium/114.flatten-binary-tree-to-linked-list.js)\
 [120.triangle](https://github.com/oasis10702/leetcode/blob/master/medium/120.triangle.js)\
