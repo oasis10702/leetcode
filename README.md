@@ -56,6 +56,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [113.path-sum-ii](https://github.com/oasis10702/leetcode/blob/master/medium/113.path-sum-ii.js)\
 [114.flatten-binary-tree-to-linked-list](https://github.com/oasis10702/leetcode/blob/master/medium/114.flatten-binary-tree-to-linked-list.js)\
 [118.pascals-triangle](https://github.com/oasis10702/leetcode/blob/master/easy/118.pascals-triangle.js)\
+[119.pascals-triangle-ii](https://github.com/oasis10702/leetcode/blob/master/easy/119.pascals-triangle-ii.js)\
 [120.triangle](https://github.com/oasis10702/leetcode/blob/master/medium/120.triangle.js)\
 [122.best-time-to-buy-and-sell-stock-ii](https://github.com/oasis10702/leetcode/blob/master/medium/122.best-time-to-buy-and-sell-stock-ii.js)\
 [131.palindrome-partitioning](https://github.com/oasis10702/leetcode/blob/master/medium/131.palindrome-partitioning.js)\
