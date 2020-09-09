@@ -60,6 +60,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [120.triangle](https://github.com/oasis10702/leetcode/blob/master/medium/120.triangle.js)\
 [122.best-time-to-buy-and-sell-stock-ii](https://github.com/oasis10702/leetcode/blob/master/medium/122.best-time-to-buy-and-sell-stock-ii.js)\
 [131.palindrome-partitioning](https://github.com/oasis10702/leetcode/blob/master/medium/131.palindrome-partitioning.js)\
+[136.single-number](https://github.com/oasis10702/leetcode/blob/master/easy/136.single-number.js)\
 [137.single-number-ii](https://github.com/oasis10702/leetcode/blob/master/medium/137.single-number-ii.js)\
 [139.word-break](https://github.com/oasis10702/leetcode/blob/master/medium/139.word-break.js)\
 [144.binary-tree-preorder-traversal](https://github.com/oasis10702/leetcode/blob/master/medium/144.binary-tree-preorder-traversal.js)\
