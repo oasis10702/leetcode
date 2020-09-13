@@ -70,6 +70,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [152.maximum-product-subarray](https://github.com/oasis10702/leetcode/blob/master/medium/152.maximum-product-subarray.js)\
 [153.find-minimum-in-rotated-sorted-array](https://github.com/oasis10702/leetcode/blob/master/medium/153.find-minimum-in-rotated-sorted-array.js)\
 [160.intersection-of-two-linked-lists](https://github.com/oasis10702/leetcode/blob/master/easy/160.intersection-of-two-linked-lists.js)\
+[167.two-sum-ii-input-array-is-sorted](https://github.com/oasis10702/leetcode/blob/master/easy/167.two-sum-ii-input-array-is-sorted.js)\
 [179.largest-number](https://github.com/oasis10702/leetcode/blob/master/medium/179.largest-number.js)\
 [199.binary-tree-right-side-view](https://github.com/oasis10702/leetcode/blob/master/medium/199.binary-tree-right-side-view.js)\
 [209.minimum-size-subarray-sum](https://github.com/oasis10702/leetcode/blob/master/medium/209.minimum-size-subarray-sum.js)\
