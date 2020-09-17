@@ -74,6 +74,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [171.excel-sheet-column-number](https://github.com/oasis10702/leetcode/blob/master/easy/171.excel-sheet-column-number.js)\
 [179.largest-number](https://github.com/oasis10702/leetcode/blob/master/medium/179.largest-number.js)\
 [189.rotate-array](https://github.com/oasis10702/leetcode/blob/master/easy/189.rotate-array.js)\
+[198.house-robber](https://github.com/oasis10702/leetcode/blob/master/easy/198.house-robber.js)\
 [199.binary-tree-right-side-view](https://github.com/oasis10702/leetcode/blob/master/medium/199.binary-tree-right-side-view.js)\
 [209.minimum-size-subarray-sum](https://github.com/oasis10702/leetcode/blob/master/medium/209.minimum-size-subarray-sum.js)\
 [213.house-robber-ii](https://github.com/oasis10702/leetcode/blob/master/medium/213.house-robber-ii.js)\
