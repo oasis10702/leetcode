@@ -79,6 +79,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [203.remove-linked-list-elements](https://github.com/oasis10702/leetcode/blob/master/easy/203.remove-linked-list-elements.js)\
 [204.count-primes](https://github.com/oasis10702/leetcode/blob/master/easy/204.count-primes.js)\
 [205.isomorphic-strings](https://github.com/oasis10702/leetcode/blob/master/easy/205.isomorphic-strings.js)\
+[206.reverse-linked-list](https://github.com/oasis10702/leetcode/blob/master/easy/206.reverse-linked-list.js)\
 [209.minimum-size-subarray-sum](https://github.com/oasis10702/leetcode/blob/master/medium/209.minimum-size-subarray-sum.js)\
 [213.house-robber-ii](https://github.com/oasis10702/leetcode/blob/master/medium/213.house-robber-ii.js)\
 [215.kth-largest-element-in-an-array](https://github.com/oasis10702/leetcode/blob/master/medium/215.kth-largest-element-in-an-array.js)\
