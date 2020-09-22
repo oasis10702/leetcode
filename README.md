@@ -83,6 +83,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [209.minimum-size-subarray-sum](https://github.com/oasis10702/leetcode/blob/master/medium/209.minimum-size-subarray-sum.js)\
 [213.house-robber-ii](https://github.com/oasis10702/leetcode/blob/master/medium/213.house-robber-ii.js)\
 [215.kth-largest-element-in-an-array](https://github.com/oasis10702/leetcode/blob/master/medium/215.kth-largest-element-in-an-array.js)\
+[217.contains-duplicate](https://github.com/oasis10702/leetcode/blob/master/easy/217.contains-duplicate.js)\
 [230.kth-smallest-element-in-a-bst](https://github.com/oasis10702/leetcode/blob/master/medium/230.kth-smallest-element-in-a-bst.js)\
 [279.perfect-squares](https://github.com/oasis10702/leetcode/blob/master/medium/279.perfect-squares.js)\
 [287.find-the-duplicate-number](https://github.com/oasis10702/leetcode/blob/master/medium/287.find-the-duplicate-number.js)\
