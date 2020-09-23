@@ -85,6 +85,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [215.kth-largest-element-in-an-array](https://github.com/oasis10702/leetcode/blob/master/medium/215.kth-largest-element-in-an-array.js)\
 [217.contains-duplicate](https://github.com/oasis10702/leetcode/blob/master/easy/217.contains-duplicate.js)\
 [230.kth-smallest-element-in-a-bst](https://github.com/oasis10702/leetcode/blob/master/medium/230.kth-smallest-element-in-a-bst.js)\
+[234.palindrome-linked-list](https://github.com/oasis10702/leetcode/blob/master/easy/234.palindrome-linked-list.js)\
 [279.perfect-squares](https://github.com/oasis10702/leetcode/blob/master/medium/279.perfect-squares.js)\
 [287.find-the-duplicate-number](https://github.com/oasis10702/leetcode/blob/master/medium/287.find-the-duplicate-number.js)\
 [309.best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/oasis10702/leetcode/blob/master/medium/309.best-time-to-buy-and-sell-stock-with-cooldown.js)\
