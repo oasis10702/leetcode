@@ -89,6 +89,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [237.delete-node-in-a-linked-list](https://github.com/oasis10702/leetcode/blob/master/easy/237.delete-node-in-a-linked-list.js)\
 [242.valid-anagram](https://github.com/oasis10702/leetcode/blob/master/easy/242.valid-anagram.js)\
 [279.perfect-squares](https://github.com/oasis10702/leetcode/blob/master/medium/279.perfect-squares.js)\
+[283.move-zeroes](https://github.com/oasis10702/leetcode/blob/master/easy/283.move-zeroes.js)\
 [287.find-the-duplicate-number](https://github.com/oasis10702/leetcode/blob/master/medium/287.find-the-duplicate-number.js)\
 [309.best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/oasis10702/leetcode/blob/master/medium/309.best-time-to-buy-and-sell-stock-with-cooldown.js)\
 [324.wiggle-sort-ii](https://github.com/oasis10702/leetcode/blob/master/medium/324.wiggle-sort-ii.js)\
