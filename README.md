@@ -92,6 +92,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [283.move-zeroes](https://github.com/oasis10702/leetcode/blob/master/easy/283.move-zeroes.js)\
 [287.find-the-duplicate-number](https://github.com/oasis10702/leetcode/blob/master/medium/287.find-the-duplicate-number.js)\
 [290.word-pattern](https://github.com/oasis10702/leetcode/blob/master/easy/290.word-pattern.js)\
+[299.bulls-and-cows](https://github.com/oasis10702/leetcode/blob/master/easy/299.bulls-and-cows.js)\
 [309.best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/oasis10702/leetcode/blob/master/medium/309.best-time-to-buy-and-sell-stock-with-cooldown.js)\
 [324.wiggle-sort-ii](https://github.com/oasis10702/leetcode/blob/master/medium/324.wiggle-sort-ii.js)\
 [328.odd-even-linked-list](https://github.com/oasis10702/leetcode/blob/master/medium/328.odd-even-linked-list.js)\
