@@ -102,6 +102,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [378.kth-smallest-element-in-a-sorted-matrix](https://github.com/oasis10702/leetcode/blob/master/medium/378.kth-smallest-element-in-a-sorted-matrix.js)\
 [382.linked-list-random-node](https://github.com/oasis10702/leetcode/blob/master/medium/382.linked-list-random-node.js)\
 [383.ransom-note](https://github.com/oasis10702/leetcode/blob/master/easy/383.ransom-note.js)\
+[387.first-unique-character-in-a-string](https://github.com/oasis10702/leetcode/blob/master/easy/387.first-unique-character-in-a-string.js)\
 [395.longest-substring-with-at-least-k-repeating-characters](https://github.com/oasis10702/leetcode/blob/master/medium/395.longest-substring-with-at-least-k-repeating-characters.js)\
 [413.arithmetic-slices](https://github.com/oasis10702/leetcode/blob/master/medium/413.arithmetic-slices.js)\
 [416.partition-equal-subset-sum](https://github.com/oasis10702/leetcode/blob/master/medium/416.partition-equal-subset-sum.js)\
