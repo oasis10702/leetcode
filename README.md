@@ -108,6 +108,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [413.arithmetic-slices](https://github.com/oasis10702/leetcode/blob/master/medium/413.arithmetic-slices.js)\
 [416.partition-equal-subset-sum](https://github.com/oasis10702/leetcode/blob/master/medium/416.partition-equal-subset-sum.js)\
 [437.path-sum-iii](https://github.com/oasis10702/leetcode/blob/master/easy/437.path-sum-iii.js)\
+[448.find-all-numbers-disappeared-in-an-array](https://github.com/oasis10702/leetcode/blob/master/easy/448.find-all-numbers-disappeared-in-an-array.js)\
 [456.132-pattern](https://github.com/oasis10702/leetcode/blob/master/medium/456.132-pattern.js)\
 [473.matchsticks-to-square](https://github.com/oasis10702/leetcode/blob/master/medium/473.matchsticks-to-square.js)\
 [486.predict-the-winner](https://github.com/oasis10702/leetcode/blob/master/medium/486.predict-the-winner.js)\
