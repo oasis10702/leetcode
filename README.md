@@ -118,6 +118,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [509.fibonacci-number](https://github.com/oasis10702/leetcode/blob/master/easy/509.fibonacci-number.js)\
 [520.detect-capital](https://github.com/oasis10702/leetcode/blob/master/easy/520.detect-capital.js)\
 [540.single-element-in-a-sorted-array](https://github.com/oasis10702/leetcode/blob/master/medium/540.single-element-in-a-sorted-array.js)\
+[541.reverse-string-ii](https://github.com/oasis10702/leetcode/blob/master/easy/541.reverse-string-ii.js)\
 [670.maximum-swap](https://github.com/oasis10702/leetcode/blob/master/medium/670.maximum-swap.js)\
 [729.my-calendar-i](https://github.com/oasis10702/leetcode/blob/master/medium/729.my-calendar-i.js)\
 [739.daily-temperatures](https://github.com/oasis10702/leetcode/blob/master/medium/739.daily-temperatures.js)\
