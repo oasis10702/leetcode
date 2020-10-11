@@ -122,6 +122,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [559.maximum-depth-of-n-ary-tree](https://github.com/oasis10702/leetcode/blob/master/easy/559.maximum-depth-of-n-ary-tree.js)\
 [572.subtree-of-another-tree](https://github.com/oasis10702/leetcode/blob/master/easy/572.subtree-of-another-tree.js)\
 [575.distribute-candies](https://github.com/oasis10702/leetcode/blob/master/easy/575.distribute-candies.js)\
+[594.longest-harmonious-subsequence](https://github.com/oasis10702/leetcode/blob/master/easy/594.longest-harmonious-subsequence.js)\
 [670.maximum-swap](https://github.com/oasis10702/leetcode/blob/master/medium/670.maximum-swap.js)\
 [729.my-calendar-i](https://github.com/oasis10702/leetcode/blob/master/medium/729.my-calendar-i.js)\
 [739.daily-temperatures](https://github.com/oasis10702/leetcode/blob/master/medium/739.daily-temperatures.js)\
