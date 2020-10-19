@@ -130,6 +130,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [670.maximum-swap](https://github.com/oasis10702/leetcode/blob/master/medium/670.maximum-swap.js)\
 [645.set-mismatch](https://github.com/oasis10702/leetcode/blob/master/easy/645.set-mismatch.js)\
 [669.trim-a-binary-search-tree](https://github.com/oasis10702/leetcode/blob/master/easy/669.trim-a-binary-search-tree.js)\
+[700.search-in-a-binary-search-tree](https://github.com/oasis10702/leetcode/blob/master/easy/700.search-in-a-binary-search-tree.js)\
 [729.my-calendar-i](https://github.com/oasis10702/leetcode/blob/master/medium/729.my-calendar-i.js)\
 [739.daily-temperatures](https://github.com/oasis10702/leetcode/blob/master/medium/739.daily-temperatures.js)\
 [740.delete-and-earn](https://github.com/oasis10702/leetcode/blob/master/medium/740.delete-and-earn.js)\
