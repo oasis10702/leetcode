@@ -138,6 +138,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [763.partition-labels](https://github.com/oasis10702/leetcode/blob/master/medium/763.partition-labels.js)\
 [771.jewels-and-stones](https://github.com/oasis10702/leetcode/blob/master/easy/771.jewels-and-stones.js)\
 [836.rectangle-overlap](https://github.com/oasis10702/leetcode/blob/master/easy/836.rectangle-overlap.js)\
+[844.backspace-string-compare](https://github.com/oasis10702/leetcode/blob/master/easy/844.backspace-string-compare.js)\
 [870.advantage-shuffle](https://github.com/oasis10702/leetcode/blob/master/medium/870.advantage-shuffle.js)\
 [881.boats-to-save-people](https://github.com/oasis10702/leetcode/blob/master/medium/881.boats-to-save-people.js)\
 [979.distribute-coins-in-binary-tree](https://github.com/oasis10702/leetcode/blob/master/medium/979.distribute-coins-in-binary-tree.js)\
