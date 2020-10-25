@@ -141,6 +141,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [844.backspace-string-compare](https://github.com/oasis10702/leetcode/blob/master/easy/844.backspace-string-compare.js)\
 [860.lemonade-change](https://github.com/oasis10702/leetcode/blob/master/easy/860.lemonade-change.js)\
 [870.advantage-shuffle](https://github.com/oasis10702/leetcode/blob/master/medium/870.advantage-shuffle.js)\
+[872.leaf-similar-trees](https://github.com/oasis10702/leetcode/blob/master/easy/872.leaf-similar-trees.js)\
 [881.boats-to-save-people](https://github.com/oasis10702/leetcode/blob/master/medium/881.boats-to-save-people.js)\
 [979.distribute-coins-in-binary-tree](https://github.com/oasis10702/leetcode/blob/master/medium/979.distribute-coins-in-binary-tree.js)\
 [983.minimum-cost-for-tickets](https://github.com/oasis10702/leetcode/blob/master/medium/983.minimum-cost-for-tickets.js)\
