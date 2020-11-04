@@ -146,6 +146,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [896.monotonic-array](https://github.com/oasis10702/leetcode/blob/master/easy/896.monotonic-array.js)\
 [917.reverse-only-letters](https://github.com/oasis10702/leetcode/blob/master/easy/917.reverse-only-letters.js)\
 [922.sort-array-by-parity-ii](https://github.com/oasis10702/leetcode/blob/master/easy/922.sort-array-by-parity-ii.js)\
+[977.squares-of-a-sorted-array](https://github.com/oasis10702/leetcode/blob/master/easy/977.squares-of-a-sorted-array.js)\
 [979.distribute-coins-in-binary-tree](https://github.com/oasis10702/leetcode/blob/master/medium/979.distribute-coins-in-binary-tree.js)\
 [983.minimum-cost-for-tickets](https://github.com/oasis10702/leetcode/blob/master/medium/983.minimum-cost-for-tickets.js)\
 [1130.minimum-cost-tree-from-leaf-values](https://github.com/oasis10702/leetcode/blob/master/medium/1130.minimum-cost-tree-from-leaf-values.js)\
