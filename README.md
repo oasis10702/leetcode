@@ -149,6 +149,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [977.squares-of-a-sorted-array](https://github.com/oasis10702/leetcode/blob/master/easy/977.squares-of-a-sorted-array.js)\
 [979.distribute-coins-in-binary-tree](https://github.com/oasis10702/leetcode/blob/master/medium/979.distribute-coins-in-binary-tree.js)\
 [983.minimum-cost-for-tickets](https://github.com/oasis10702/leetcode/blob/master/medium/983.minimum-cost-for-tickets.js)\
+[1002.find-common-characters](https://github.com/oasis10702/leetcode/blob/master/easy/1002.find-common-characters.js)\
 [1130.minimum-cost-tree-from-leaf-values](https://github.com/oasis10702/leetcode/blob/master/medium/1130.minimum-cost-tree-from-leaf-values.js)\
 [1219.path-with-maximum-gold](https://github.com/oasis10702/leetcode/blob/master/medium/1219.path-with-maximum-gold.js)\
 [1227.airplane-seat-assignment-probability](https://github.com/oasis10702/leetcode/blob/master/medium/1227.airplane-seat-assignment-probability.js)\
