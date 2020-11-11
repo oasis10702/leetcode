@@ -154,6 +154,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [1013.partition-array-into-three-parts-with-equal-sum](https://github.com/oasis10702/leetcode/blob/master/easy/1013.partition-array-into-three-parts-with-equal-sum.js)\
 [1046.last-stone-weight](https://github.com/oasis10702/leetcode/blob/master/easy/1046.last-stone-weight.js)\
 [1047.remove-all-adjacent-duplicates-in-string](https://github.com/oasis10702/leetcode/blob/master/easy/1047.remove-all-adjacent-duplicates-in-string.js)\
+[1103.distribute-candies-to-people](https://github.com/oasis10702/leetcode/blob/master/easy/1103.distribute-candies-to-people.js)\
 [1130.minimum-cost-tree-from-leaf-values](https://github.com/oasis10702/leetcode/blob/master/medium/1130.minimum-cost-tree-from-leaf-values.js)\
 [1219.path-with-maximum-gold](https://github.com/oasis10702/leetcode/blob/master/medium/1219.path-with-maximum-gold.js)\
 [1227.airplane-seat-assignment-probability](https://github.com/oasis10702/leetcode/blob/master/medium/1227.airplane-seat-assignment-probability.js)\
