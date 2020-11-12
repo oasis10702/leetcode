@@ -156,6 +156,7 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [1047.remove-all-adjacent-duplicates-in-string](https://github.com/oasis10702/leetcode/blob/master/easy/1047.remove-all-adjacent-duplicates-in-string.js)\
 [1103.distribute-candies-to-people](https://github.com/oasis10702/leetcode/blob/master/easy/1103.distribute-candies-to-people.js)\
 [1130.minimum-cost-tree-from-leaf-values](https://github.com/oasis10702/leetcode/blob/master/medium/1130.minimum-cost-tree-from-leaf-values.js)\
+[1154.day-of-the-year](https://github.com/oasis10702/leetcode/blob/master/easy/1154.day-of-the-year.js)\
 [1219.path-with-maximum-gold](https://github.com/oasis10702/leetcode/blob/master/medium/1219.path-with-maximum-gold.js)\
 [1227.airplane-seat-assignment-probability](https://github.com/oasis10702/leetcode/blob/master/medium/1227.airplane-seat-assignment-probability.js)\
 [1282.group-the-people-given-the-group-size-they-belong-to](https://github.com/oasis10702/leetcode/blob/master/medium/1282.group-the-people-given-the-group-size-they-belong-to.js)\
