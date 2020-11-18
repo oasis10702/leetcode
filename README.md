@@ -164,4 +164,5 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [1252.cells-with-odd-values-in-a-matrix](https://github.com/oasis10702/leetcode/blob/master/easy/1252.cells-with-odd-values-in-a-matrix.js)\
 [1281.subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/oasis10702/leetcode/blob/master/easy/1281.subtract-the-product-and-sum-of-digits-of-an-integer.js)\
 [1282.group-the-people-given-the-group-size-they-belong-to](https://github.com/oasis10702/leetcode/blob/master/medium/1282.group-the-people-given-the-group-size-they-belong-to.js)\
+[1299.replace-elements-with-greatest-element-on-right-side](https://github.com/oasis10702/leetcode/blob/master/easy/1299.replace-elements-with-greatest-element-on-right-side.js)\
 [1302.deepest-leaves-sum](https://github.com/oasis10702/leetcode/blob/master/medium/1302.deepest-leaves-sum.js)\
