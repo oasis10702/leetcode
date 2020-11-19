@@ -166,3 +166,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [1282.group-the-people-given-the-group-size-they-belong-to](https://github.com/oasis10702/leetcode/blob/master/medium/1282.group-the-people-given-the-group-size-they-belong-to.js)\
 [1299.replace-elements-with-greatest-element-on-right-side](https://github.com/oasis10702/leetcode/blob/master/easy/1299.replace-elements-with-greatest-element-on-right-side.js)\
 [1302.deepest-leaves-sum](https://github.com/oasis10702/leetcode/blob/master/medium/1302.deepest-leaves-sum.js)\
+[1304.find-n-unique-integers-sum-up-to-zero](https://github.com/oasis10702/leetcode/blob/master/easy/1304.find-n-unique-integers-sum-up-to-zero.js)\
