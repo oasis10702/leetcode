@@ -168,3 +168,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [1302.deepest-leaves-sum](https://github.com/oasis10702/leetcode/blob/master/medium/1302.deepest-leaves-sum.js)\
 [1304.find-n-unique-integers-sum-up-to-zero](https://github.com/oasis10702/leetcode/blob/master/easy/1304.find-n-unique-integers-sum-up-to-zero.js)\
 [1323.maximum-69-number](https://github.com/oasis10702/leetcode/blob/master/easy/1323.maximum-69-number.js)\
+[1331.rank-transform-of-an-array](https://github.com/oasis10702/leetcode/blob/master/easy/1331.rank-transform-of-an-array.js)\
