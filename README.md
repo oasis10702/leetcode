@@ -170,3 +170,4 @@ Please reference to problem sets in LeetCcde: [leetcode problemset](https://leet
 [1323.maximum-69-number](https://github.com/oasis10702/leetcode/blob/master/easy/1323.maximum-69-number.js)\
 [1331.rank-transform-of-an-array](https://github.com/oasis10702/leetcode/blob/master/easy/1331.rank-transform-of-an-array.js)\
 [1342.number-of-steps-to-reduce-a-number-to-zero](https://github.com/oasis10702/leetcode/blob/master/easy/1342.number-of-steps-to-reduce-a-number-to-zero.js)\
+[1346.check-if-n-and-its-double-exist](https://github.com/oasis10702/leetcode/blob/master/easy/1346.check-if-n-and-its-double-exist.js)\
